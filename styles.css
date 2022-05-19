@@ -1,0 +1,208 @@
+*{
+    margin: 0%;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background: rgb(0, 0, 0);
+   
+    
+}
+.logo{
+    margin-top: 30px;
+    margin-left: 430px;
+    float: left;
+    margin-right: 30px;
+    cursor: pointer;
+    height: 25px;
+    
+}
+.texts{
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+    float: left;
+    margin-right: 30px;
+    font-size: small;
+    cursor: pointer;
+
+}
+.single{
+    color: yellow;
+    font-weight: bold;
+    margin-top: 30px;
+    float: left;
+    margin-right: 30px;
+    font-size: small;
+    cursor: pointer;
+}
+.material-symbols-outlined{
+    color: white;
+    margin-top: 26px;
+    cursor: pointer;
+}
+.mainone{
+    width: 100%;
+    height: 800px;
+    background: black;
+}
+.tagline{
+    margin-left: 670px;
+}
+.imgone{
+    margin-left: 380px;
+    cursor: pointer;
+}
+.shop{
+    margin-left: 900px;
+}
+.shopme{
+    color: aqua;
+    border-radius: 25px;
+    border-color: aqua;
+    background: black;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+}
+.maintwo-one{
+    background: rgb(255, 51, 204);
+    width: 50%;
+    height:350px;
+    float: left;
+}
+.maintwo-two{
+    background: rgb(255, 51, 204);
+    width: 100%;
+    height:350px;
+}
+.quiz{
+    margin-top: 50px;
+    background: aqua;
+    width:100px;
+    margin-left: 350px;
+    padding: 10px;
+    padding-left: 25px;
+}
+.match{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 350px;
+}
+.find{
+    color: white;
+    margin-left: 350px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.takequiz{
+    background: black;
+    border-color:aqua;
+    border-radius: 25px;
+    color: aqua;
+    height: 30px;
+    font-size: 12px;
+    width: 150px;
+    margin-left: 350px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.quizcouple{
+    margin-left: 200px;
+}
+.mainthree{
+    background: black;
+    width: 100%;
+    height: 800px;
+}
+.imgtwo{
+    margin-top: 50px;
+    margin-left: 690px;
+    cursor: pointer;
+}
+.imgthree{
+    margin-left: 380px;
+    cursor: pointer;
+}
+.shopm{
+    color: aqua;
+    border-radius: 25px;
+    border-color: aqua;
+    background: black;
+    padding: 5px;
+    width: 100px;
+    margin-left: 900px;
+    cursor: pointer;
+}
+.mainfour{
+    width: 100%;
+    height: 250px;
+    background: yellow;
+}
+.back{
+    height: 200PX;
+    width: 100%;
+    background: yellow;
+    float: left;
+    margin-bottom: 0;
+}
+.gotback{
+    font-size: 50px;
+    font-weight: bold;
+    background: yellow;
+    margin-bottom: 0;
+    
+}
+.backme{
+    margin-left: 790px;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+.footer{
+    width: 100%;
+    height: 460px;
+    background: black;
+}
+.footerone{
+    width: 350px;
+    height: 460px;
+    
+    float: left;
+}
+.footertwo{
+    width: 1600px;
+    height: 460px;
+    
+
+}
+.logotwo{
+    margin-right: 1130px;
+    cursor: pointer;
+    
+}
+.textss{
+    color: white;
+    margin-bottom: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+.down{
+    float: left;
+    margin-right: 95px;
+    
+}
+.down ul{
+    list-style: none;
+}
+.final{
+    color: white;
+    font-size: small;
+}
+.logothree{
+    float: left;
+    margin-right: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+}
